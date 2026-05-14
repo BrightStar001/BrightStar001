@@ -10,7 +10,6 @@
 
 ## 🚀 About Me
 
-- 💻 8+ years experience in Web & AI Development
 - 🤖 Building AI Agents, RAG Systems & Automation
 - 🧠 Working with OpenAI, Claude, Grok, Gemini, Llama, Mistral
 - 🌐 Laravel, React, Node.js, Python
