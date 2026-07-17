@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey%2C+Renat+Mitriuc;Full-Stack+AI+Engineer;Building+Agentic+Workflows;Open+To+Wild+Problems;AI+Automation" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey%2C+there;Senior+Full-Stack+AI+Engineer;Building+Agentic+Workflows;Open+To+Wild+Problems;AI+Automation" alt="Typing SVG" />
 </p>
 
 <div align="center">
